@@ -18,7 +18,7 @@ This project retroactively documents the planning, assembly, and optimization of
 | **Case** | Corsair 4000D Airflow (Black & Teak, tempered glass) |
 | **PSU** | Corsair RM750x (750W, Fully Modular, 80+ Gold) |
 | **Case Fans** | 5x ARCTIC P12 120mm (PWM, pressure-optimized) |
-| **Monitor** | Sceptre 27" 100Hz Gaming Monitor (E275W-FW100T) |
+| **Monitor** | Sceptre 27" 100Hz (3840x2160) + HP 27mq (3620x2036) |
 | **Keyboard** | Logitech Signature K650 Wireless (BLE/USB, wrist rest) |
 | **Docking Station** | Sabrent USB-C Lay Flat Dock (NVMe + SATA, offline clone) |
 
@@ -42,6 +42,29 @@ This project retroactively documents the planning, assembly, and optimization of
 - Verified thermal performance with Cinebench, HWMonitor, and FurMark
 - Benchmarked SSD with CrystalDiskMark and confirmed NVMe speeds
 - Used MemTest86 to validate RAM stability
+
+---
+
+## 🧮 System Overview
+
+| Category | Details |
+|---------|---------|
+| **OS** | Windows 11 Pro 64-bit |
+| **CPU Temp** | ~43°C idle (Intel Core i7-12700K) |
+| **Motherboard Temp** | ~38°C (MSI MAG B760 Tomahawk WiFi) |
+| **GPU Temp** | ~36°C (RTX 3060 12GB) |
+| **RAM** | 32GB DDR5 @ 2793MHz (36-40-40-82) |
+| **Displays** | Sceptre F27 (3840x2160@100Hz), HP 27mq (3620x2036@59Hz) |
+| **Graphics** | Intel UHD 770 + NVIDIA RTX 3060 (SLI Disabled) |
+| **Audio** | Realtek High Definition Audio |
+| **Storage Devices** |  
+  - 2TB ADATA SX6000PNP NVMe SSD  
+  - 10TB HGST Ultrastar He10 (SATA)  
+  - 7.5TB WD8002FZWX (SATA)  
+  - 5.6TB WD Elements USB (SSD)  
+  - 9314GB Sabrent USB (SATA)  
+  - 465GB Sabrent USB (SATA)  
+  - 238GB Sabrent PCIe USB (SSD) |
 
 ---
 
